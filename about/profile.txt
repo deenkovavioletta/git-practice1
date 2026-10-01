@@ -1,2 +1,3 @@
 Автор: Деенкова Виолетта
 О себе: студентка, изучаю git
+Email: deenkovavioletta@gmail.com
